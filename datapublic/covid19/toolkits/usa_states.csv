@@ -1,0 +1,52 @@
+#s_postalcode,s_country,s_state,s_abbreviation,tb_id,s_region,s_team,s_finished
+AL,USA,Alabama,Ala.,1002,South,Luna,10
+AK,USA,Alaska,Alaska,1003,West,Luna,10
+AZ,USA,Arizona,Ariz.,1004,West,Luna,10
+AR,USA,Arkansas,Ark.,1005,South,Luna,10
+CA,USA,California,Calif.,1006,West,Luna,10
+CO,USA,Colorado,Colo.,1007,West,Luna,0
+CT,USA,Connecticut,Conn.,1008,Northeast,Dennis,10
+DE,USA,Delaware,Del.,1009,South,Luna,0
+DC,USA,District of Columbia,D.C.,1010,South,Luna,0
+FL,USA,Florida,Fla.,1011,South,Luna,10
+GA,USA,Georgia,Ga.,1012,South,Luna,10
+HI,USA,Hawaii,Hawaii,1013,West,Luna,0
+ID,USA,Idaho,Idaho,1014,West,Luna,0
+IL,USA,Illinois,Ill.,1015,Midwest,Dennis,10
+IN,USA,Indiana,Ind.,1016,Midwest,Dennis,10
+IA,USA,Iowa,Iowa,1017,Midwest,Dennis,0
+KS,USA,Kansas,Kans.,1018,Midwest,Dennis,10
+KY,USA,Kentucky,Ky.,1019,South,Luna,10
+LA,USA,Louisiana,La.,1020,South,Luna,10
+ME,USA,Maine,Maine,1021,Northeast,Dennis,10
+MD,USA,Maryland,Md.,1022,South,Luna,10
+MA,USA,Massachusetts,Mass.,1023,Northeast,Dennis,10
+MI,USA,Michigan,Mich.,1024,Midwest,Dennis,10
+MN,USA,Minnesota,Minn.,1025,Midwest,Dennis,10
+MS,USA,Mississippi,Miss.,1026,South,Luna,10
+MO,USA,Missouri,Mo.,1027,Midwest,Dennis,10
+MT,USA,Montana,Mont.,1028,West,Luna,0
+NE,USA,Nebraska,Nebr.,1029,Midwest,Dennis,10
+NV,USA,Nevada,Nev.,1030,West,Luna,0
+NH,USA,New Hampshire,N.H.,1031,Northeast,Dennis,10
+NJ,USA,New Jersey,N.J.,1032,Northeast,Dennis,10
+NM,USA,New Mexico,N.M.,1033,West,Luna,0
+NY,USA,New York,N.Y.,1034,Northeast,Dennis,10
+NC,USA,North Carolina,N.C.,1035,South,Luna,10
+ND,USA,North Dakota,N.D.,1036,Midwest,Dennis,10
+OH,USA,Ohio,Ohio,1037,Midwest,Dennis,10
+OK,USA,Oklahoma,Okla.,1038,South,Luna,10
+OR,USA,Oregon,Ore.,1039,West,Luna,10
+PA,USA,Pennsylvania,Pa.,1040,Northeast,Dennis,10
+RI,USA,Rhode Island,R.I.,1041,Northeast,Dennis,10
+SC,USA,South Carolina,S.C.,1042,South,Luna,0
+SD,USA,South Dakota,S.D.,1043,Midwest,Dennis,10
+TN,USA,Tennessee,Tenn.,1044,South,Luna,10
+TX,USA,Texas,Tex.,1045,South,Luna,10
+UT,USA,Utah,Utah,1046,West,Luna,10
+VT,USA,Vermont,Vt.,1047,Northeast,Dennis,10
+VA,USA,Virginia,Va.,1048,South,Luna,0
+WA,USA,Washington,Wash.,1049,West,Luna,10
+WV,USA,West Virginia,W.Va.,1050,South,Luna,10
+WI,USA,Wisconsin,Wis.,1051,Midwest,Dennis,10
+WY,USA,Wyoming,Wyo.,1052,West,Luna,10
