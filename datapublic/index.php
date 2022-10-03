@@ -148,8 +148,8 @@ if(substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2) == 'zh'){
         <div class="content">
             <h3>We set up this NPO for public health</h3>
             <p>This Nonprofit Organization, DataPublic Service was founded in April, 2020 by:</p>
-            <p>-    Dennis Yang, student in Grade 11, Troy High School, MI USA.</p>
-            <p>-    Yihan Wang (Luna), student in Grade 10, Troy High School, MI USA.</p>
+            <p>-    Dennis Yang, student in Grade 12, Troy High School, MI USA.</p>
+            <p>-    Yihan Wang (Luna), student in Grade 11, Troy High School, MI USA.</p>
             <p>DataPublic Service is registerred with ID <a href="https://www.michigan.gov/lara">802873818</a> in Michigan USA.</p>
         </div>
 
