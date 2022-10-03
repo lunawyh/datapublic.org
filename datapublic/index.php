@@ -147,9 +147,11 @@ if(substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2) == 'zh'){
 
         <div class="content">
             <h3>We set up this NPO for public health</h3>
-            <p>This Nonprofit Organization, DataPublic Service was founded in April, 2020 by:</p>
-            <p>-    Dennis Yang, student in Grade 12, Troy High School, MI USA.</p>
-            <p>-    Yihan Wang (Luna), student in Grade 11, Troy High School, MI USA.</p>
+            <p>This Nonprofit Organization, DataPublic Service was founded in April, 2020 to help the local community to receive the much needed public health data.</p>
+            <p>The COVID-19 project is a visulization tool to forecast the future COVD-19 cases/trends based on the hitorical data for each state.</p>
+            <p>This project has been led by:</p>
+            <p>-    Dennis Yang, student in Grade 12 (current), Troy High School, MI USA.</p>
+            <p>-    Yihan Wang (Luna), student in Grade 11 (current), Troy High School, MI USA.</p>
             <p>DataPublic Service is registerred with ID <a href="https://www.michigan.gov/lara">802873818</a> in Michigan USA.</p>
         </div>
 
@@ -198,6 +200,7 @@ if(substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2) == 'zh'){
 
         <div class="content">
             <h3>Specially friendly Links</h3>
+            <p>Dennis Yang -- Coming Soon -- </p>
             <p><a href="../luna">Luna Skills</a>: Art, Music and Coding</p>
             <p><a href="../judy">Best Judy</a>: Art, Music and Coding</p>
             <p><a href="https://github.com/cd6oy">Larry</a>: Art, Music and Coding</p>
